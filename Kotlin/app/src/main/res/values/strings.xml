@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Twitter Clone</string>
+    <string name="text">Twitter Clone\nKotlin</string>
+</resources>
